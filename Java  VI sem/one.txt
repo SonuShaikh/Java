@@ -1,0 +1,3 @@
+This is to be sample File 
+This File is Use By FileWriter 
+This File is Created by Java
